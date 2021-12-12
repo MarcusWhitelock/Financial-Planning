@@ -2,6 +2,7 @@
 Week 5 Homework Financial Planning Analysis Tool 
 
 The directory Financial_Planning contains the MCForecastTools file used and the final draft of my code the financial-planner file.
+There is no .env or .gitignore as my environment variables are stored in my system users. 
 
 The Following is the approach and plan I followed as stated in the financial-planner file:
 
