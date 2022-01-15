@@ -1,11 +1,7 @@
 # Unit 5 - Financial Planning
 
-<<<<<<< HEAD
 ![Financial Planner](Images/financial-planner.png)
-=======
-The directory Financial_Planning contains the MCForecastTools file used and the final draft of my code the financial-planner file.
-There is no .env or .gitignore as my environment variables are stored in my system users. 
->>>>>>> 99b49fc332f485d2f97e3399467314b33b9bda63
+
 
 ## Background
 
